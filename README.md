@@ -129,7 +129,7 @@ Atau, Anda bisa mendownload file ZIP dari repository ini.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Acknowledgments
-- [Stisla Template](https://github.com/stisla/stisla)
+- [SB Admin Template](https://github.com/startbootstrap/startbootstrap-sb-admin)
 - [Font Awesome](https://fontawesome.com/icons)
 - [Bootstrap](https://getbootstrap.com/)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
